@@ -1,4 +1,6 @@
-# Acquisition Analysis
+# Bloodstain Analysis
+
+![CSI, Crime Investigation style scene with dominant colors blue, azure, and classic police lights, crime scene tape, no people or weapons, outdoor background like a street or neighborhood](https://github.com/user-attachments/assets/0243b436-5c5f-4ce7-80ba-639f6cbb459a)
 
 This project focuses on the processing and analysis of data obtained from images in HDR and PNG format. A series of operations are carried out to extract useful information from the samples acquired over time, and a qualitative analysis of the blood samples is made in relation to substances such as:
 - Ketchup
