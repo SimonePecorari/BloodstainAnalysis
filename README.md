@@ -1,6 +1,7 @@
 # Bloodstain Analysis
 
-![csi](https://github.com/user-attachments/assets/1364b310-d910-479f-8990-dbe40ef06afe)
+![CrimeScene](https://github.com/user-attachments/assets/2a5fa8af-904c-42a9-80f8-8b44ac30bb02)
+
 
 This project focuses on the processing and analysis of data obtained from images in HDR and PNG format. A series of operations are carried out to extract useful information from the samples acquired over time, and a qualitative analysis of the blood samples is made in relation to substances such as:
 - Ketchup
