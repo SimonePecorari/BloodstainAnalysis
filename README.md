@@ -135,3 +135,6 @@ Experience with hyperspectral analysis has led to the following conclusions:
 - Almost zero decay of the slope of the average spectrum curve of the other substances compared to that of the blood.
 - Initial and final noise on the spectrum curves due to thermal and voltage ripple phenomena.
 
+## Members
+Eros Morizio
+Davide Sasso
