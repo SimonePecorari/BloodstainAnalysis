@@ -129,14 +129,9 @@ The same analyses were carried out by evaluating the variation of blood in relat
 
 ## Conclusions
 Experience with hyperspectral analysis has led to the following conclusions:
--
-Negative variation of the slope of the curve of the mean spectrum of blood in the range 577 - 650 [nm] due to the chromatic change of blood over time from red to black.
--
-Positive variation of the characteristic points at 540 [nm] and 577 [nm] due to the Oxyhaemoglobin α and β contained in the blood which, when exposed to oxygen, continues oxidation by increasing its reflectance by about 5% as can be seen in the graph in Figure 5.3.
--
-Absence of blood-like characteristic points for the other substances analysed.
--
-Almost zero decay of the slope of the average spectrum curve of the other substances compared to that of the blood.
--
-Initial and final noise on the spectrum curves due to thermal and voltage ripple phenomena.
+- Negative variation of the slope of the curve of the mean spectrum of blood in the range 577 - 650 [nm] due to the chromatic change of blood over time from red to black.
+- Positive variation of the characteristic points at 540 [nm] and 577 [nm] due to the Oxyhaemoglobin α and β contained in the blood which, when exposed to oxygen, continues oxidation by increasing its reflectance by about 5% as can be seen in the graph in Figure 5.3.
+- Absence of blood-like characteristic points for the other substances analysed.
+- Almost zero decay of the slope of the average spectrum curve of the other substances compared to that of the blood.
+- Initial and final noise on the spectrum curves due to thermal and voltage ripple phenomena.
 
